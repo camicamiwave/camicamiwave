@@ -1,6 +1,4 @@
-### Hi there 👋,  I'm Camila, 
-### and I'm a second-year student pursuing a 
-### Bachelor of Science in Information Technology.
+### Hi there 👋, I'm Camila
 - 🌱 I’m currently learning Flutter to build a mobile app
 - 💬 Ask me about UX design
 - ⚡ Fun fact: I'm a k-drama fan
