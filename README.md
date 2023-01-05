@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Flutter to build a mobile app
+- 💬 Ask me about UX design
+- ⚡ Fun fact: I'm a k-drama fan
 <!--
 **camicamiwave/camicamiwave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
